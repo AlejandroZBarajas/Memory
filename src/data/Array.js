@@ -7,7 +7,9 @@ const ogArray ={
         {image:"🐪",title:"Medio camello"},
         {image:"🐫",title:"Camello"},
         {image:"🐼",title:"Po"},
-        {image:"🐉",title:"Shenlong"}
+        {image:"🐉",title:"Shenlong"},
+        {image:"🐧",title:"Linux"},
+        {image:"🐟",title:"Dory"}
     ]
 }
 

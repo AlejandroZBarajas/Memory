@@ -3,10 +3,10 @@
     height: 170px;
     display: flex;
     flex-wrap: wrap;
-    border:solid 7px rgb(69, 84, 151);
+    border:solid 7px #3aad36;
     justify-content: center;
     align-items: center;
     margin:7px;
-    background-color: rgb(4, 100, 100);
+    background-color: #b5e059;
     border-radius: 25%;
 }
