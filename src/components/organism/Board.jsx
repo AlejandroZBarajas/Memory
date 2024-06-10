@@ -5,12 +5,10 @@ import "./Board.css"
 
 function Board(props){
     return(
-        <div id="boardContainer">
-            <h1>entra en board</h1>
+        <div id="boardCss">
             {
-            ogArray.card.map(card=><Card Title={props.title} Image={props.image}></Card>)
+            ogArray.card.map(card=><Card image={card.image} title={card.title} ></Card>)
             }
-            <h2>renderiza</h2>
         </div>
     )
 }

@@ -1,0 +1,8 @@
+#boardCss{
+    display: flex;
+    flex-wrap: wrap;
+    align-items:center;
+    justify-content: space-evenly;
+    background-color:rgb(137, 173, 209)
+    
+}
