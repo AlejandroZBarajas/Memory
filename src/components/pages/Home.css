@@ -1,7 +1,25 @@
 #pageTitle{
+
+    height: 150px;
+    width: 100%;
     font-size: 300%;
     text-align: center;
     padding: 5%;
     color:#024242;
     padding-bottom: 0.5;
+    display: flex;
+    align-items:center;
+    justify-content: justify-content;
+}
+
+#homeContainer{
+    position: relative;
+
+    min-width: 800px;
+    max-width: 1000px;
+    height: 1250px;
+    left: 20%;
+
+
+
 }

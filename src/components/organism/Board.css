@@ -6,6 +6,6 @@
     background-color:#0AADBF;
     border:solid 4px #D9042B;
     border-radius:2.5%;
-    width: 80%;
+    min-width: 800px;
      height: 60%;
 }
