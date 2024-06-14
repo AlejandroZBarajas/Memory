@@ -9,7 +9,8 @@ const ogArray ={
         {image:"🐼",title:"Po"},
         {image:"🐉",title:"Shenlong"},
         {image:"🐧",title:"Linux"},
-        {image:"🐟",title:"Dory"}
+        {image:"🐟",title:"Dory"},
+
     ]
 }
 

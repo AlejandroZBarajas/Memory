@@ -25,11 +25,14 @@ function Board(props) {
         <div id="boardCss">
             {
                 shuffledCards.map((card) => (
+                    
                     <Card 
+                    
                         key={card.id} 
                         image={card.image} 
                         title={card.title} 
                     />
+                    
                 ))
             }
         </div>
